@@ -1,0 +1,31 @@
+id,complaint_id,student_name,department,building,room_no,category,problem,priority,status,date
+1,CMP001,Rahul Sharma,BCA,Block A,204,Electrical,Fan not working,Medium,Pending,2026-05-18
+2,CMP002,Priya Verma,B.Tech,Block B,112,Furniture,Broken chair,Low,Resolved,2026-05-22
+3,CMP003,Aman Patel,BCA,Computer Lab,Lab-1,IT,Projector fault,High,In Progress,2026-05-26
+4,CMP004,Neha Singh,B.Tech,Block C,118,Plumbing,Tap leakage,High,Resolved,2026-05-30
+5,CMP005,Rohit Jain,BCA,Block A,305,Internet,Wi-Fi down,Medium,Pending,2026-06-03
+6,CMP006,Kavya Gupta,BBA,Library,1F,Cleaning,Reading area needs cleaning,Low,Resolved,2026-06-07
+7,CMP007,Arjun Mehta,B.Tech,AC/Cooling,210,AC/Cooling,AC not cooling,High,In Progress,2026-06-11
+8,CMP008,Simran Kaur,BCA,Hostel Block,H-12,Other,Door handle damaged,Medium,Pending,2026-06-15
+9,CMP009,Vivek Rao,BBA,Block A,106,Electrical,Tube light flickering,Medium,Resolved,2026-06-19
+10,CMP010,Anjali Shah,BCA,Block B,208,Furniture,Desk drawer broken,Low,Pending,2026-06-23
+11,CMP011,Karan Joshi,B.Tech,Block C,302,IT,Keyboard not working,Medium,Resolved,2026-06-27
+12,CMP012,Isha Malhotra,BBA,Library,2F,Internet,Network connection slow,High,In Progress,2026-07-01
+13,CMP013,Dev Kumar,BCA,Block A,410,Plumbing,Water leakage,High,Resolved,2026-07-05
+14,CMP014,Pooja Yadav,B.Tech,Computer Lab,Lab-2,IT,Computer not starting,High,Pending,2026-07-09
+15,CMP015,Nitin Soni,BCA,Block B,118,Cleaning,Classroom cleaning required,Low,Resolved,2026-07-13
+16,CMP016,Riya Das,BBA,Library,1F,Electrical,Light not working,Medium,Pending,2026-07-17
+17,CMP017,Harsh Tiwari,B.Tech,Hostel Block,H-20,Plumbing,Washroom tap leaking,High,In Progress,2026-07-21
+18,CMP018,Sakshi Jain,BCA,Block C,214,Furniture,Broken desk,Medium,Resolved,2026-07-25
+19,CMP019,Yash Mishra,BBA,Block A,220,Internet,Wi-Fi unavailable,High,Pending,2026-07-29
+20,CMP020,Muskan Khan,BCA,Block B,316,AC/Cooling,Cooler not working,High,In Progress,2026-08-02
+21,CMP021,Aditya Sen,B.Tech,Computer Lab,Lab-3,IT,Mouse not working,Low,Resolved,2026-08-06
+22,CMP022,Megha Roy,BBA,Library,3F,Cleaning,Dustbin overflowing,Low,Pending,2026-08-10
+23,CMP023,Sahil Khan,BCA,Block C,120,Electrical,Switch damaged,Medium,Resolved,2026-08-14
+24,CMP024,Tanya Jain,B.Tech,Hostel Block,H-05,Furniture,Bed repair required,High,Pending,2026-08-18
+25,CMP025,Manish Gupta,BBA,Block A,109,Plumbing,Pipe leakage,High,Resolved,2026-08-22
+26,CMP026,Aditi Singh,BCA,Block B,201,Internet,Network unavailable,High,Pending,2026-08-26
+27,CMP027,Mohit Verma,B.Tech,Library,2F,AC/Cooling,AC making noise,Medium,In Progress,2026-08-30
+28,CMP028,Nisha Patel,BBA,Computer Lab,Lab-1,IT,Projector cable damaged,Medium,Resolved,2026-09-03
+29,CMP029,Varun Sharma,BCA,Block C,205,Cleaning,Floor needs cleaning,Low,Pending,2026-09-07
+30,CMP030,Diya Mehta,B.Tech,Hostel Block,H-18,Other,Window latch broken,Medium,Resolved,2026-09-11
